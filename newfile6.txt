@@ -1,1 +1,2 @@
 hello newfile6.txt
+KUMOH NATIONAL INSTITUTE OF TECHNOLOGY  Artificial Intelligence 24
